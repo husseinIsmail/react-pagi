@@ -23,7 +23,7 @@ import Pagination from '@react-pagi';
 
 And you will get this:
 
-![demo screenshot](public/demo-screenshot.png)
+![demo screenshot](https://github.com/husseinIsmail/react-pagi/blob/main/public/demo-screenshot.png?raw=true)
 
 Throw me in any container and I'll manage to be centered.
 
