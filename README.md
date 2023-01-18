@@ -1,7 +1,7 @@
 # react-pagi
 A simple React pagination component.
 
-You provide this:
+Give me this:
 ```
 const pageLinks = [
   '/blog',
@@ -14,7 +14,14 @@ const pageLinks = [
   '/blog/page/8'
 ];
 ```
-I provide this:
+Use me like this:
+```
+import Pagination from '@react-pagi';
+
+<Pagination pageLinks={pageLinks} />
+```
+
+And you will get this:
 
 ![demo screenshot](public/demo-screenshot.png)
 
