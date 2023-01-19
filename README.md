@@ -38,3 +38,7 @@ Throw me in any container and I'll manage to be centered.
 - The arrows provide Next & Prev functionalities.
 
 - Have 0 dependencies.
+
+
+### Check out live demo:
+[Github Pages react-pagi](https://husseinismail.github.io/react-pagi/)
